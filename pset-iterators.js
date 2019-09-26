@@ -12,11 +12,16 @@ provided file named `us-presidents.js`
 All of the following problems require that you
 use the `presidents` array to solve them.
 
-Use any variables or methods deemed necessary
+Only use either `.map()`, `.find()` or `.filter()` to solve the problems in the problem set
+
+  * Do not use `.forEach()`
+
+You can use any additional variables that you deem necessary
 to solve each problem.
 
 You can use either regular functions or
-arrow functions for your callbacks
+arrow functions **for your iterator callbacks**
+
 */
 
 const presidents = require('./us-presidents.js') // <- DO NOT Remove; this represents an array consisting of U.S. Presidents
