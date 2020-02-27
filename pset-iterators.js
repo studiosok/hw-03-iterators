@@ -55,7 +55,7 @@ Problem 2:
 1. Using the `presidents` array, return a list of all the
 presidents whose first name was "James".
 Save the data in a variable called `presidentsNamedJames`,
-declared with const
+declared with const (return a list of objects)
 
 2. Print `presidentsNamedJames` to the console
 
@@ -183,6 +183,35 @@ Expected Result Shape: An array of objects (with each object representing a pres
 console.log('Problem 7:')
 
 // Add your code below this line
+
+// Add your code above this line
+
+/** added for formatting purposes **/
+console.log('')
+console.log('-----------------')
+
+/***********
+Problem 8 (Bonus):
+
+1. Using the `presidents` array, return an object that represents the number of occurrences of the first name of all of the presidents (past and current)
+
+Save the data in a variable
+called `firstNameCount`, declared with const
+
+2. Print `firstNameCount` to the console
+
+Expected Result Shape: An object where each key is the firstName and the value is the number of presidents that share that first name.
+
+Example (not the actual answer):
+
+{ "James":  5, "George": 3, "Barack": 1, ....}
+
+************/
+console.log('Problem 8:')
+
+// Add your code below this line
+
+
 
 // Add your code above this line
 
